@@ -5,6 +5,7 @@ nav.navbar a{
 
 .table-container {
     padding-top: 60px;
+    padding-bottom: 20px;
 }
 
 .row.fisrt-container{
@@ -53,15 +54,16 @@ nav.navbar a{
 }
 
 .divs.second{
-    background-color: rgb(180, 178, 16);
+    background-color: rgb(240, 199, 52);
 }
 
 .divs.third{
-    background-color: rgb(231, 228, 28);
+    background-color: rgb(224, 186, 13);
 }
 
 .container-cards {
     padding-top: 60px;
+    padding-bottom: 20px;
 }
 
 .container-thumbnails{
