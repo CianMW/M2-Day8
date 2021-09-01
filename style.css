@@ -4,7 +4,7 @@ nav.navbar a{
 }
 
 .table-container {
-    padding-top: 80px;
+    padding-top: 60px;
 }
 
 .row.fisrt-container{
@@ -59,13 +59,13 @@ nav.navbar a{
 }
 
 .container-cards {
-    padding-top: 80px;
+    padding-top: 60px;
 }
 
 .container-thumbnails{
     display: flex;
     flex-direction: column;
-    padding-top: 80px;
+    padding-top: 60px;
 }
 
 .button-left {
@@ -92,4 +92,9 @@ nav.navbar a{
 .baseline {
     padding: 20px;
     align-items: baseline;
+}
+
+h1 {
+    text-align: center;
+    color: black;
 }
