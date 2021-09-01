@@ -7,7 +7,7 @@ nav.navbar a{
     padding-top: 80px;
 }
 
-.row.justify-content-center{
+.row.fisrt-container{
     display: flex;
     flex-direction: row;
     background-color: white ;
@@ -63,18 +63,33 @@ nav.navbar a{
 }
 
 .container-thumbnails{
+    display: flex;
+    flex-direction: column;
     padding-top: 80px;
 }
 
-.btn.btn-secondary {
-    opacity: 20;
-    background-color: black;
+.button-left {
+    border: 1px solid black;
+    border-top-left-radius: 3px;
+    border-bottom-left-radius: 3px;
 }
 
-.button {
+.button-right {
     border: 1px solid black;
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
 }
+
 
 .card-img-top{
     object-fit: cover;
+}
+
+.padding {
+    padding-bottom: 20px;
+}
+
+.baseline {
+    padding: 20px;
+    align-items: baseline;
 }
