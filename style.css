@@ -130,3 +130,11 @@ h5 {
 p {
     font-weight: small;
 }
+
+.thumbnails {
+    text-align: right;
+}
+
+small {
+    text-align: right;
+}
