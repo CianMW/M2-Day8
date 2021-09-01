@@ -25,9 +25,9 @@ nav.navbar a{
     border-top-left-radius: 60px;
     border-bottom-left-radius: 60px;
     background-color: rgb(19, 196, 93);
-    text-align: right;
+    text-align:center;
     overflow: hidden;
-    align-items: left;
+    align-items: center;
 }
 
 .second-table {
@@ -137,4 +137,49 @@ p {
 
 .mins {
     text-align: right;
+}
+
+#exercise4{
+    text-align: center;
+}
+
+.page-heading{
+    font-size:x-large;
+    text-align: center;
+}
+h5.post-title{
+    font-weight: bolder;
+}
+.custom-button{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.blog-post{
+    margin-bottom: 20px;
+}
+
+form input{
+    padding: 0 !important;
+    margin-right: 0 !important;
+}
+
+form button{
+    background-color: gray !important;
+    color: white !important;
+    padding left: 0 !important;
+}
+
+.sidebar{
+    margin-bottom: 20px;
+}
+.first-ul-list{
+    list-style: none;
+    
+}
+.second-ul-list{
+    list-style: none;
+
 }
